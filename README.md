@@ -83,6 +83,10 @@ Individual-level participant data are restricted for privacy reasons and are not
 
 Full citation and DOI to be added upon publication. 
 
+## Contact
+
+Anusha T Antony: anushata94@gmail.com
+
 ## License
 
 See [LICENSE](LICENSE).
