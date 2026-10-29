@@ -69,7 +69,7 @@ Analyses were performed in **R (v4.5.2)** within Jupyter notebooks (R kernel). K
 - `lme4` (v1.1.33)
 - `MatchIt`
 
-Upstream bioinformatic processing used the StaG-mwc (v0.5.1) workflow (FastP, Kraken2, MetaPhlAn4, HUMAnN2, Omixer-RPM). See the manuscript Methods for full details.
+Upstream bioinformatic processing used the StaG-mwc (v0.5.1) workflow (FastP, Kraken2, MetaPhlAn4, HUMAnN3, Omixer-RPM). See the manuscript Methods for full details.
 
 ## Data availability
 
@@ -81,7 +81,7 @@ Individual-level participant data are restricted for privacy reasons and are not
 
 ## Citation
 
-If you use this code, please cite the manuscript above. *(Full citation and DOI to be added upon publication.)*
+Full citation and DOI to be added upon publication. 
 
 ## License
 
